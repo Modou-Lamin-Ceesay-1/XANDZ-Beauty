@@ -1,5 +1,5 @@
 # 🌸 XANDZ Beauty — Next.js E-Commerce
-XANDZ Beaty store with WhatsApp order integration.
+XANDZ Beaugit ty store with WhatsApp order integration.
 
 ## 🚀 Quick Start
 
@@ -30,7 +30,7 @@ export const BRAND_NAME = "XANDZ Beauty";
 ## 📁 Project Structure
 
 ```
-lumiere/
+xandzbeauty/
 ├── app/
 │   ├── globals.css
 │   ├── layout.tsx          # Root layout + CartProvider
