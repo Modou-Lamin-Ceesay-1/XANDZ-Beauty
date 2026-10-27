@@ -1,6 +1,5 @@
-# 🌸 Lumière Beauty — Next.js E-Commerce
-
-Luxury cosmetics store with WhatsApp order integration.
+# 🌸 XANDZ Beauty — Next.js E-Commerce
+XANDZ Beaty store with WhatsApp order integration.
 
 ## 🚀 Quick Start
 
@@ -15,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000)
 Edit `data/config.ts` to set your details:
 ```ts
 export const OWNER_WHATSAPP = "1234567890"; // Your WhatsApp number (no +)
-export const BRAND_NAME = "Lumière Beauty";
+export const BRAND_NAME = "XANDZ Beauty";
 // ... other settings
 ```
 
